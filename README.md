@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Node.Js
 - 💬 Ask me about Data Structures and Algorithms
-- 📫 How to reach me: 
+- 📫 Shoot me a mail at `vidit25shukla[AT]gmail[DOT]com`
 
 
 
